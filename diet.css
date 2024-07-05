@@ -1,0 +1,39 @@
+.nav-img
+{
+    width: 250px;
+    max-height: 50px;
+}
+.nav-link
+{
+    font-size: 20px;
+    transition: all 0.5s;
+}
+.nav-link:hover
+{
+    color: black;
+}
+.card-img{
+    max-width: 90%;
+    min-height: auto;
+}
+.card{
+    max-width: 350px;
+    height: auto;
+    transition: all 0.5s;
+    background-color: lightgray;
+}
+.card:hover{
+    transform: translateY(5px);
+}
+.box-container:hover
+{
+    transform: translateY(5px);
+}
+body
+{
+    background-color: antiquewhite;
+}
+img
+{
+    height: 700px;
+}
